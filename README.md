@@ -72,10 +72,3 @@ KrishiConnect is a unified software platform that leverages AI, remote sensing, 
 
 **KrishiConnect** directly addresses SIH25099 by integrating AI, remote sensing, and sensor data for precision crop monitoring, delivering a scalable, farmer-centric solution for India’s agricultural challenges.
 
----
-
-
-- Phone: 9310939887
-- Gmail: aparnabhardwaj867@gmail.com
-
----
