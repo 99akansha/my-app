@@ -74,47 +74,7 @@ KrishiConnect is a unified software platform that leverages AI, remote sensing, 
 
 ---
 
-## Project Team: Innovatrix
 
-**Team Leader:**
-- Name: Anushka Sharma
-- Roll No: 2300330120021
-- Branch & Sec: CS - A
-- Phone: 9045305411
-- Gmail: as4019844@gmail.com
-
-**Team Member 2:**
-- Name: Akash Kumar
-- Roll No: 2300331530011
-- Branch & Sec: CSE-Aiml / A
-- Phone: 9411621096
-- Gmail: jiakash427@gmail.com
-
-**Team Member 3:**
-- Name: Vishnu Yadav
-- Roll No: 2300331530125
-- Branch & Sec: CSE-Aiml / B
-- Phone: 6398394054
-- Gmail: vishnu29sep@gmail.com
-
-**Team Member 4:**
-- Name: Anshika Gupta
-- Roll No: 2300330100061
-- Branch & Sec: CSE / A
-- Phone: 8808389326
-- Gmail: anshikaagupta74286@gmail.com
-
-**Team Member 5:**
-- Name: Ankush Yadav
-- Roll No: 2300330100055
-- Branch & Sec: CSE / A
-- Phone: 8052434076
-- Gmail: anyadav8052@gmail.com
-
-**Team Member 6:**
-- Name: Aparna Bhardwaj
-- Roll No: 2300330120022
-- Branch & Sec: CS - A
 - Phone: 9310939887
 - Gmail: aparnabhardwaj867@gmail.com
 
